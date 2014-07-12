@@ -1,5 +1,6 @@
 require 'rspec'
 require 'rspec/autorun'
+require 'pp'
 
 describe 'Dog Hash' do
   it "returns Harleigh's favorite sports" do
